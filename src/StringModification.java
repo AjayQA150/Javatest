@@ -107,6 +107,7 @@ public class StringModification {
 				+ lastLetter;
 
 		return outputString;
+		//test
 	}
 
 }
